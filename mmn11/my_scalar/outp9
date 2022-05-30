@@ -1,0 +1,18 @@
+User instructions:
+==================
+Hello,
+this is a program that performs a scalar product of 2 vectors whose components are integer
+and which have the same length, the length will not be greater than 1000.
+The program returns integer.
+==============================
+Enter the length of the vectors you want to multiply.
+The input numbers in this program should be at base 10.
+When you have finished entering the number, press the Enter key.
+Insert the "first vector" components.
+After each "component" of the vector1 press the "Enter" key
+Insert the "second vector" components.
+After each "component" of the vector press the "Enter" key
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+The dot product of the 2 vectors you entered is: -45
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*

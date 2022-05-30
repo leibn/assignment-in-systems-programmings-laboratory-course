@@ -1,0 +1,22 @@
+User instructions:
+==================
+Hello,
+This is a program that receives as input two long unsigned variables - x and y.
+The goal of the program is to find for variable x how many lit bits are in the same places as the lit bits in variable y
+The input numbers in this program should be at base 10.
+When you have finished entering the number, press the Enter key.
+
+==============================
+Enter the X number you want to check
+The number should be in decimal format
+enter your number here:The number U entered is:
+                          543
+==============================
+Enter the Y number you want to check
+The number should be in decimal format
+enter your number here:The number U entered is:
+                            0
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+The number of matching lit bit in your two numbers is: 
+                           0
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
